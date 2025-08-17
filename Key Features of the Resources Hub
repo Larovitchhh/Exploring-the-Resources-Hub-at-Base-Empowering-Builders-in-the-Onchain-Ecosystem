@@ -1,0 +1,18 @@
+The Base Resources Hub is organized into several key categories, each addressing a critical aspect of project development. Here’s a breakdown of the primary offerings:1. Builder Resource Kit: The EssentialsThe hub provides a curated collection of frequently requested tools and resources to jumpstart your project. This includes:Documentation: Comprehensive guides and tutorials to help developers get started with building on Base. From quickstart guides to advanced smart contract development, the documentation covers everything needed to deploy apps, tokens, or even custom appchains.
+
+OnchainKit: A set of pre-built React components and integrations that allow developers to create apps in minutes. OnchainKit simplifies the process of integrating onchain functionality, making it accessible even for those new to blockchain development.
+
+Coinbase Smart Wallet: A tool that enables users to create accounts in seconds without the need for apps or seed phrases. It also supports gas sponsorship through the Coinbase Paymaster and Bundler, reducing costs for end-users.
+
+2. Funding OpportunitiesBase is committed to supporting early-stage projects through various financial programs:Base Ecosystem Fund: Early-stage projects (pre-seed to seed) can apply for investment to fuel their growth. This fund is designed to support innovative ideas that align with Base’s vision of a global onchain economy.
+
+Builder Rewards Program: By connecting to Talent Protocol, developers can build projects and become eligible for weekly rewards of up to 2 ETH. This incentivizes consistent development and community engagement.
+
+Gas Credits: Eligible projects can receive up to $15,000 in gas credits to cover transaction costs for their users, making it easier to onboard new users without financial barriers.
+
+Retroactive Funding: In collaboration with the Optimism Superchain, Base builders can apply for retroactive public goods funding, rewarding contributions to the ecosystem.
+
+3. Community and NetworkingBuilding onchain is not just about code—it’s about community. The Resources Hub offers several ways to connect with other builders and amplify your project:Builder Network: Developers can apply to join the Base Builder Network, gaining access to community forums, programs, and collaboration opportunities.
+
+Basename Profiles: By claiming a basename, builders can create a unique onchain profile to connect with others in the ecosystem, fostering networking and collaboration.
+
